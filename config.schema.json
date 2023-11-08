@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Klipper",
   "pluginType": "platform",
   "singular": true,
   "schema": {
